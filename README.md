@@ -14,6 +14,9 @@ Olá! me chamo Matheus, tenho 24 anos e sou natural do estado da Bahia. Estou em
         <a href="https://www.linkedin.com/in/matheus-silva-90b75738b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="mailton:amtheusengsf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
+        <a herf=https://wa.me/55(71)993315515>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+        </a>
    </p>
    
 ---
