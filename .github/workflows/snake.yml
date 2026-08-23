@@ -17,11 +17,11 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2.0.0-rc.2
+        uses: Platane/snk@v3
         with:
           github_user_name: MatheuSoftware-Engineer
           outputs: |
-            dist/snake.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-dark
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
