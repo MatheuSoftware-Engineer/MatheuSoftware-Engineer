@@ -80,7 +80,7 @@ Numero de contato: (71)99331-5515
     height="200"
     alt="GitHub Stats"
     style="padding-right: 10px"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheuSoftware-Engineer&theme=tokyonight"
+    src="https://github-readm-stats.vercel.app/api/top-langs?username=MatheuSoftware-Engineer&langs&theme=ocean_dark&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br"
  />
                              
 
