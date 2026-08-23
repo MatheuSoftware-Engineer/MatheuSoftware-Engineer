@@ -60,9 +60,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MatheuSoftware-Engineer/MatheuSoftware-Engineer/snake-output/snake.svg" alt="GitHub Contribution Snake" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MatheuSoftware-Engineer/MatheuSoftware-Engineer/snake-output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ###
                              
