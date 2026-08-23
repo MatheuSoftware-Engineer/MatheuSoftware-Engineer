@@ -2,85 +2,59 @@
 
 **`Engenheiro de Software em formação`**
 
-Olá! me chamo Matheus, tenho 24 anos e sou natural do estado da Bahia. Estou em busca do meu primeiro emprego/estágio na área de TI, curso atualmente Engenharia de software pela "[UNICEVE](https://www.bing.com/ck/a?!&&p=e33919e59394f3fef476ef834d98babcd5d3b0d85a16bc45830e867315d48422JmltdHM9MTc4Njc1MjAwMA&ptn=3&ver=2&hsh=4&fclid=3a1bcf19-f850-6053-154c-d8a9f97b61e1&psq=Uniceve&u=a1aHR0cHM6Ly91bmljaXZlLmNvbS8), sou apaixonado pelo mundo tech, busco uma empresa para me desenvolver, aprimorar meus conhecimentos e crescer na área! 
-Numero de contato: (71)99331-5515
+<h3 data-importer="text" align="left">Olá! me chamo Matheus, tenho 24 anos e sou natural do estado da Bahia. Estou em busca do meu primeiro emprego/estágio na área de TI</h3>
 
-   <p align="left">
-      <a href="https://github.com/MatheuSoftware-Engineer?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MatheuSoftware-Engineer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/MatheuSoftware-Engineer?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MatheuSoftware-Engineer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-        <a href="https://discord.com/mforce8848">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-        <a href="https://www.linkedin.com/in/matheus-silva-90b75738b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <a href="mailton:amtheusengsf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
-        <a herf=https://wa.me/55(71)993315515>
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-        </a>
-   </p>
-   
----
-### 📚 Linguagens e Tecnologias  
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="35px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left"
-    alt="HTML5"
-    title="HTML5"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img
-    align="left"
-    alt="CSS3"
-    title="CSS3"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="35px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="34px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+###
 
-### 🔎 Estatísticas
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/MatheuSoftware-Engineer/MatheuSoftware-Engineer/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/MatheuSoftware-Engineer/MatheuSoftware-Engineer/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheuSoftware-Engineer=&theme=tokyonight"
- />
+###
 
-<img
-    align="left"
-    height="200"
-    alt="GitHub Stats"
-    style="padding-right: 10px"
-    src="https://github-readm-stats.vercel.app/api/top-langs?username=MatheuSoftware-Engineer&langs&theme=ocean_dark&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br"
- />
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdnMnpvczJndzZwbHA2dHNiZ3U1bjUwNmY0cmRjY2podHVldGdubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.instagram.com/silva_mth10?utm_source=qr&igsi=NjlmM21pd3JkZ2Nk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/mforce8848" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheusengsf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-silva-90b75738b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="[https:/wa.me/71993315515](https://wa.me/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/MatheuSoftware-Engineer/MatheuSoftware-Engineer/snake-output/snake.svg" alt="Snake animation" />
+
+###
                              
 
