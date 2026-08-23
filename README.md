@@ -72,7 +72,7 @@ Numero de contato: (71)99331-5515
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-streak-stats.herokuapp.com/?username=MatheuSoftware-Engineer=tokyonight&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MatheuSoftware-Engineer=&theme=tokyonight&hide_border=false"
  />
 
 <img
